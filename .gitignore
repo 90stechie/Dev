@@ -1,4 +1,10 @@
+# Dependencies
 node_modules/
-build/
+
+# Build output
+#build/
 dist/
+
+# Optional logs
 npm-debug.log
+yarn-error.log
