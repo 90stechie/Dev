@@ -18,13 +18,12 @@ export function Hero() {
             Hi, I'm <span className="text-blue-600">Prasanth Namana</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-600">
-            Full Stack Developer & UI/UX Enthusiast
+            Senior Cloud Consultant
           </p>
         </div>
 
         <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-          I craft beautiful, functional web experiences. Passionate about clean code, 
-          elegant design, and building products that make a difference.
+          I deploy, manage cloud resources as per the business needs.
         </p>
 
         <div className="flex gap-4 justify-center flex-wrap">
